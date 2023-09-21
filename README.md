@@ -26,6 +26,8 @@ ViTMatte has achieved state-of-the-art performance on benchmark datasets, outper
 
 Implementing ViTMatte involves setting up the environment, loading images and trimaps, running a forward pass, visualizing the foreground, and exploring creative applications like background replacement.
 
+![Screenshot from 2023-09-21 13-35-44](https://github.com/inuwamobarak/ViTMatte/assets/65142149/8909ff76-c43c-4b6e-9ab0-191324069a71)
+
 ## FAQs
 
 Readers frequently ask the following questions about ViTMatte:

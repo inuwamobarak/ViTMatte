@@ -6,7 +6,7 @@ This repository contains an in-depth article exploring ViTMatte, a state-of-the-
 
 ## Article
 
-You can read the full article on ViTMatte [here](https://github.com/inuwamobarak/ViTMatte).
+You can read the full article on ViTMatte [here](https://www.analyticsvidhya.com/blog/2023/09/vitmatte-a-state-of-the-art-image-matting-model/).
 
 ## Key Takeaways
 
